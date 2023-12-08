@@ -1,0 +1,4 @@
+FD: com/Ashin/modid/mixin/MixinMinecraft/logger com/Ashin/modid/mixin/MixinMinecraft/K
+FD: com/Ashin/modid/mixin/MixinMinecraft/fullscreen com/Ashin/modid/mixin/MixinMinecraft/T
+MD: com/Ashin/modid/mixin/MixinMinecraft/updateDisplayMode ()V com/Ashin/modid/mixin/MixinMinecraft/au ()V
+MD: com/Ashin/modid/mixin/MixinMinecraft/createDisplay ()V com/Ashin/modid/mixin/MixinMinecraft/ap ()V

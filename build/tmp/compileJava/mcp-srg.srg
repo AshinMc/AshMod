@@ -1,0 +1,4 @@
+FD: com/Ashin/modid/mixin/MixinMinecraft/logger com/Ashin/modid/mixin/MixinMinecraft/field_147123_G
+FD: com/Ashin/modid/mixin/MixinMinecraft/fullscreen com/Ashin/modid/mixin/MixinMinecraft/field_71431_Q
+MD: com/Ashin/modid/mixin/MixinMinecraft/updateDisplayMode ()V com/Ashin/modid/mixin/MixinMinecraft/func_110441_Q ()V
+MD: com/Ashin/modid/mixin/MixinMinecraft/createDisplay ()V com/Ashin/modid/mixin/MixinMinecraft/func_175609_am ()V

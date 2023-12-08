@@ -1,0 +1,16 @@
+[
+{
+  "modid": "example",
+  "name": "Forge Mixin Example",
+  "description": "A example mod.",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["YourName"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
