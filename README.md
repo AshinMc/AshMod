@@ -1,7 +1,7 @@
 # AshMod (In Development)
 A Forge mod for 1.8.9 that I'm making in my freetime.
 
-## Curent goals
+## Current goals
 1. Time changer (can change with mouse wheel with a keybind)
 
 ## Future Goals
